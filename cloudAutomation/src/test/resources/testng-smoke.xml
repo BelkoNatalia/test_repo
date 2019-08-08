@@ -3,6 +3,7 @@
     <test name="Find initial btn test">
         <classes>
             <class name="test.FindInitialBtnTest"/>
+             <class name="test.FindInitialBtnTest"/>
         </classes>
     </test>
 </suite>
